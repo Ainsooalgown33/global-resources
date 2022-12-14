@@ -4,5 +4,6 @@ div{
     background-color: blue;
 }
 input{
-    border: 3px solid green;
+    border: 6px solid green;
+    width: 90px;
 }
