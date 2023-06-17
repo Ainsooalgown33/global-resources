@@ -7,3 +7,6 @@ input{
     border: 6px solid green;
     width: 90px;
 }
+span{
+    font-size: 600px;
+}
